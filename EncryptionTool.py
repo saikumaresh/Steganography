@@ -6,7 +6,7 @@ from PIL import ImageTk, Image
 from PIL import Image
 from tkinter import font as tkFont
 from subprocess import Popen
-import chilkat
+#import chilkat
 import datetime
 
 
