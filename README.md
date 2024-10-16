@@ -3,6 +3,10 @@
 ## 🌟 Project Overview
 This Python GUI tool allows you to encrypt and hide a secret message within an image using a password. The message can be securely retrieved later using the same tool.
 
+## Demo Video
+
+[![Watch the demo video](https://img.youtube.com/vi/-t2fQOBr5Hg/0.jpg)](https://youtu.be/-t2fQOBr5Hg)
+
 ## 🛠️ Key Features
 - **Image-Based Encryption**: Conceal secret messages within images, enhancing data security.
 - **Password Protection**: Encrypt messages with a password to ensure only authorized users can access them.
